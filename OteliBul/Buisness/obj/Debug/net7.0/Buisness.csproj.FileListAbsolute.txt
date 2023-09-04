@@ -1,0 +1,17 @@
+C:\Users\orkun\source\repos\OteliBul\Buisness\bin\Debug\net7.0\Buisness.deps.json
+C:\Users\orkun\source\repos\OteliBul\Buisness\bin\Debug\net7.0\Buisness.dll
+C:\Users\orkun\source\repos\OteliBul\Buisness\bin\Debug\net7.0\Buisness.pdb
+C:\Users\orkun\source\repos\OteliBul\Buisness\bin\Debug\net7.0\DataAccess.dll
+C:\Users\orkun\source\repos\OteliBul\Buisness\bin\Debug\net7.0\Entity.dll
+C:\Users\orkun\source\repos\OteliBul\Buisness\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\orkun\source\repos\OteliBul\Buisness\bin\Debug\net7.0\Entity.pdb
+C:\Users\orkun\source\repos\OteliBul\Buisness\obj\Debug\net7.0\Buisness.csproj.AssemblyReference.cache
+C:\Users\orkun\source\repos\OteliBul\Buisness\obj\Debug\net7.0\Buisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orkun\source\repos\OteliBul\Buisness\obj\Debug\net7.0\Buisness.AssemblyInfoInputs.cache
+C:\Users\orkun\source\repos\OteliBul\Buisness\obj\Debug\net7.0\Buisness.AssemblyInfo.cs
+C:\Users\orkun\source\repos\OteliBul\Buisness\obj\Debug\net7.0\Buisness.csproj.CoreCompileInputs.cache
+C:\Users\orkun\source\repos\OteliBul\Buisness\obj\Debug\net7.0\Buisness.csproj.CopyComplete
+C:\Users\orkun\source\repos\OteliBul\Buisness\obj\Debug\net7.0\Buisness.dll
+C:\Users\orkun\source\repos\OteliBul\Buisness\obj\Debug\net7.0\refint\Buisness.dll
+C:\Users\orkun\source\repos\OteliBul\Buisness\obj\Debug\net7.0\Buisness.pdb
+C:\Users\orkun\source\repos\OteliBul\Buisness\obj\Debug\net7.0\ref\Buisness.dll
